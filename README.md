@@ -1,3 +1,11 @@
+# About
+
+This assginment was given me to me by an organization to use an API in ReactJS application and implement two pages:
+1. A page containing all the shows (movies/series)
+2. A private page for each show (movie/series) containing the details about that show.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
