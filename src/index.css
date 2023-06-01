@@ -71,3 +71,19 @@
 .page{
   font-size: large;
 }
+
+/* @media (min-width:100000px) {
+    .menu{
+      margin:0 0;
+    }
+}
+
+@media (min-width:900px){
+  .menu{
+    margin:10px;
+  }
+
+  .card{
+    width:20rem;
+  }
+} */
