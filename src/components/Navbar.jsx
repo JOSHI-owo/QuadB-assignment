@@ -33,7 +33,7 @@ function Navbar() {
                         activeClassName="menu_active"
                         className="nav-link "
                         aria-current="page"
-                        to="/home"
+                        to="/"
                       >
                         Home
                       </NavLink>
@@ -42,7 +42,7 @@ function Navbar() {
                       <NavLink
                         activeClassName="menu_active"
                         className="nav-link"
-                        to="/about"
+                        to="*"
                       >
                         About
                       </NavLink>
